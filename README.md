@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![HuggingFace](https://img.shields.io/badge/Transformers-DETR-yellow)
 ![Supervision](https://img.shields.io/badge/Supervision-Tracking-purple)
+![Status](https://img.shields.io/badge/Status-Research_Phase-orange)
 
 **CattleCounter** is a Computer Vision research project focused on accurate livestock counting using **Vision Transformers (ViT)**. Unlike real-time CNNs, this project prioritizes accuracy and global context understanding using the **DETR (DEtection TRansformer)** architecture.
 
